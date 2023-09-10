@@ -18,7 +18,7 @@ Tengah, Indonesia, Kode Pos 59354
 ## Tempat Tinggal
 
 
-# Pendidikan
+## Pendidikan
 
 S1: Syarif Hidayatullah Jakarta State Islamic University or UIN (2014-Present)
 SLTA: Madarasah Aliyah Qudsiyyah Menara Kudus (2011-14)
