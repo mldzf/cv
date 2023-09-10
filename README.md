@@ -1,20 +1,16 @@
 # Curriculum Vitae (Draft)
 
-Name: Maulida Dzul Fikri
+Nama: Maulida Dzul Fikri
 
-Born: Kudus, Tuesday Wage, December 10, 1996
+Tempat & Tgl. Lahir: Kudus, Tuesday Wage, December 10, 1996
 
-Gender: Male
+Jenis Kelamin: Laki-laki
 
-Marital status: Single
+GPA: 3.61 out of 4.00
 
-Nationality: Indonesia
+TOEFL: 450 out of 600
 
-Last GPA: 3.61 out of 4.00
-
-TOEFL (English): 450 out of 600
-
-TOAFL (Arabic): 516 out of 600
+TOAFL: 516 out of 600
 
 Email: maulidadzulﬁkri@gmail.com
 
@@ -29,60 +25,51 @@ Tengah, Indonesia, Kode Pos 59354
 
 ## Pendidikan
 
-S1: Syarif Hidayatullah Jakarta State Islamic University or UIN (2014-Present)
-SLTA: Madarasah Aliyah Qudsiyyah Menara Kudus (2011-14)
-SLTP: Madrasah Tsanawiyyah Qudsiyyah Menara Kudus (2008-11)
-SD: Sekolah Dasar Negeri 2 Getassrabi Gebog Kudus (2002-2008)
-Pesantren: Ma’had al-Maimuniyyah Langgardalem Kudus (2011-14)
-Diniyyah: Madrasah Diniyyah A'thoul Unnah Getassrabi Gebog Kudus (2003-07)
+S1: Universitas Islam Negeri Syarif Hidayatullah Jakarta (2021)
+SLTA: Madarasah Aliyah Qudsiyyah Menara Kudus (2014)
+SLTP: Madrasah Tsanawiyyah Qudsiyyah Menara Kudus (2011)
+SD: Sekolah Dasar Negeri 2 Getassrabi Gebog Kudus (2008)
+Pesantren: Ma’had al-Maimuniyyah Langgardalem Kudus (2014)
+Diniyyah: Madrasah Diniyyah A'thoul Unnah Getassrabi Gebog Kudus (2007)
 
 ## Organisasi
 
-- Member of Islamic Media Syndication (2019-Present)
-- Chairman of The Commissariat Faculty of Adab and Humanities
-- Indoneisan Moslem Student Movement (PMII [2017–2018])
-- Member of Association of Madrasah Qudsiyyah Graduates Greater Jabodetabek (2017-2022)- Member of Commission 4 Institutional of Student Senate
-in Syarif Hidayatullah State Islamic University (2016-2017)
-- Chairman of Student Political Bureau of Commissariat
-in Faculty of Adab and Humanities in Indoneisan Moslem Student Movement (PMII [2016-2017])
-- Member of Student Association of Arabic Department of Indonesia (ITHLA’ [2016])
-- Head of Reason and Intellectual Field in Arabic Language and Literature Focus (ALIF [2015-2016])
-- Member of Department of Islam and Nationality
-in Student Association of Arabic Language and Literature Department (2015-2016)
-- Member of Branch Broad Student Bond Nahdhatul Ulama in Kudus, West Java (2013-2014)
-- Member of Intra-school Organization Madrasah Qudsiyyah (2012-2013)
+- Anggota Sindikasi Media Islam (2019-Sekarang)
+- Ketua Komisariat Fakultas Adab dan Humaniors dalam Persatuan Mahasiswa Islam Indonesia (PMII [2017–2018])
+- Anggota Ikatan Alumni Madrasah Qudsiyyah Jabodetabek Raya (2017-2023)
+- Anggota Komisi 4 Badan Senat Mahasiswa Universitas Islam Negeri Syarif Hidayatullah (2016-2017)
+- Ketua Biro Politik Mahasiswa Komisariat Fakultas Adab dan Humaniora Gerakan Mahasiswa Muslim Indonesia (PMII [2016-2017])
+- Anggota Himpunan Mahasiswa Jurusan Bahasa Arab Indonesia (ITHLA’ [2016])
+- Kepala Bidang Nalar dan Intelektual Fokus Bahasa dan Sastra Arab (ALIF [2015-2016])
+- Anggota Departemen Islam dan Kebangsaan pada Himpunan Mahasiswa Jurusan Bahasa dan Sastra Arab (2015-2016)
+- Anggota Ikatan Mahasiswa Luas Cabang Nahdhatul Ulama Kudus, Jawa Barat (2013-2014)
+- Anggota Organisasi Intra Sekolah Madrasah Qudsiyyah (2012-2013)
 
 ## Kursus
 
-- Course of Arabic Language
-in Center for Language Development Syarif Hidayatullah State Islamic University (2017)
-- Training of journalism in Moslem Moderate Society with Zuhairi Misrawi (2016)
-- Participant of Workshop Temu Pen erak Media Pesantren in Center of Pesantren Studies (Bogor [2019])
+- Mata Kuliah Bahasa Arab di Pusat Pengembangan Bahasa Universitas Islam Negeri Syarif Hidayatullah (2017)
+- Pelatihan Jurnalistik Masyarakat Moderat Muslim bersama Zuhairi Misrawi (2016)
+- Peserta Workshop Temu Pen erak Media Pesantren di Pusat Studi Pesantren (Bogor [2019])
+- Workshop penulisan cerpen di Koran Kompas (meliputi 30 cerpen terbaik yang dipresentasikan di hadapan Editor Cerpen Putu Fajar Arcana di Kompas dan Penulis Seno Gumira Ajidarma dan Linda Christanty [2015])
 
 ## Pengalaman Kerja
 
-- Chief editor of the bulletin in Madrasah Qohwah Ciputat Cultural Studies (2017)
-- Chief editor of the journal about arts in Skripseni Website (2018-Present)
-- Teacher of Arabic Language and Literature
-in Madrasah Tsanawiyyah Pembangunan UIN Syarif Hidayatullah Jakarta (2019-Present)
-- Staﬀ of Puan Amal Hayati (the foundation by Shinta Nuriah Abdurrahman Wahid, M.Hum [2018])
-- Freelance writer (2015-Present)
+- Pemimpin Redaksi Buletin Kajian Budaya Madrasah Qohwah Ciputat (2017)
+- Guru Bahasa dan Sastra Arab Madrasah Tsanawiyyah Pembangunan UIN Syarif Hidayatullah Jakarta (2019-Sekarang)
+- Staf Puan Amal Hayati (didirikan oleh Shinta Nuriah Abdurrahman Wahid, M.Hum [2018])
 
 ## Penghargaan
 
-- Workshop of writing short stories in Kompas Newspaper
-(include 30 best short stories, presented before Short Story Editor Putu Fajar Arcana
-in Kompas and Writer’s Seno Gumira Ajidarma and Linda Christanty [2015])
-- One time published writing argumentation at Kompas Kampus Newspaper (2017)
+- Pernah menerbitkan tulisan argumentasi di Koran Kompas Kampus (2017)
 
 ## Statement
 
-As a Student of State Islamic University (UIN) Syarif Hidayatullah Jakarta, I have several experience in organizing team, from small team up to huge team. Long life learning was internalized as my value life. With my educational background in Arabic Language and Literature, I understand about literary criticism, translation, criticism of translation, philolo , stylistics and communication skills both Arabic and Indonesian.
+Sebagai alumni Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta, saya mempunyai banyak pengalaman dalam mengorganisir tim, dari tim kecil hingga tim besar. Pembelajaran seumur hidup diinternalisasikan sebagai nilai kehidupan saya. Dengan latar belakang pendidikan saya di bidang Bahasa dan Sastra Arab, saya memahami tentang kritik sastra, terjemahan, kritik terjemahan, filolo, stilistika dan keterampilan komunikasi baik bahasa Arab maupun bahasa Indonesia.
 
-I also learn about linguistics, literature, cultural studies, Islamic studies, middle east issues and decision-making processes.
+Saya juga belajar tentang linguistik, sastra, kajian budaya, kajian Islam, isu-isu Timur Tengah dan proses pengambilan keputusan.
 
-As an Indonesian, I am ﬂuently to use Bahasa in speaking and writing as well as using it for public speaking. I am intermediate in Arabic for both speaking and writing. I am also familiar with Ms Oﬃce’s softwares (Ms. Word, Ms. Excel, Ms. Power Point).
+Sebagai orang Indonesia, saya fasih menggunakan Bahasa Indonesia dalam berbicara dan menulis serta menggunakannya untuk berbicara di depan umum. Saya mahir berbahasa Arab dalam berbicara dan menulis. Saya juga familiar dengan software Ms Office (Ms. Word, Ms. Excel, Ms. Power Point).
 
-Following a seminars and workshops, I also have the ability to take pictures with a digital camera professionally, or I can also do a video recording with cinematic concepts. I also save a few ﬁles of my writings on my oﬃcial website, namely emde.web.id.
+Setelah mengikuti seminar dan workshop, saya juga mempunyai kemampuan memotret dengan kamera digital secara profesional, atau saya juga bisa merekam video dengan konsep sinematik. Beberapa file tulisan saya juga saya simpan di website resmi saya yaitu emde.web.id.
 
-Reading, writing, traveling, and sport-badminton is my hobby.
+Membaca, menulis, jalan-jalan, dan olah raga bulutangkis adalah hobi saya.
