@@ -1,14 +1,23 @@
 # Curriculum Vitae (Draft)
 
 Name: Maulida Dzul Fikri
+
 Born: Kudus, Tuesday Wage, December 10, 1996
+
 Gender: Male
+
 Marital status: Single
+
 Nationality: Indonesia
+
 Last GPA: 3.61 out of 4.00
+
 TOEFL (English): 450 out of 600
+
 TOAFL (Arabic): 516 out of 600
+
 Email: maulidadzulﬁkri@gmail.com
+
 Ponsel: +6285713645455
 
 ## Alamat
