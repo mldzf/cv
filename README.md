@@ -1,4 +1,4 @@
-# Curriculum Vitae (Draft)
+# Curriculum Vitae: Maulida Dzul Fikri
 
 ## Biodata
 
@@ -15,13 +15,17 @@
 
 ## Ringkasan
 
-Sebagai alumni Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta, saya mempunyai banyak pengalaman dalam mengorganisir tim, dari tim kecil hingga tim besar. Pembelajaran seumur hidup diinternalisasikan sebagai nilai kehidupan saya. Dengan latar belakang pendidikan saya di bidang Bahasa dan Sastra Arab, saya memahami tentang kritik sastra, terjemahan, kritik terjemahan, filolo, stilistika dan keterampilan komunikasi baik bahasa Arab maupun bahasa Indonesia.
+Sebagai alumni Universitas Islam Negeri (UIN) Syarif Hidayatullah Jakarta, saya mempunyai banyak pengalaman dalam mengorganisir tim, dari tim kecil hingga tim besar. Pembelajaran seumur hidup diinternalisasikan sebagai nilai kehidupan saya.
+
+Dengan latar belakang pendidikan saya di bidang Bahasa dan Sastra Arab, saya memahami tentang kritik sastra, terjemahan, kritik terjemahan, filologi, stilistika dan keterampilan komunikasi baik bahasa Arab maupun bahasa Indonesia.
 
 Saya juga belajar tentang linguistik, sastra, kajian budaya, kajian Islam, isu-isu Timur Tengah dan proses pengambilan keputusan.
 
-Sebagai orang Indonesia, saya fasih menggunakan Bahasa Indonesia dalam berbicara dan menulis serta menggunakannya untuk berbicara di depan umum. Saya mahir berbahasa Arab dalam berbicara dan menulis. Saya juga familiar dengan software Ms Office (Ms. Word, Ms. Excel, Ms. Power Point).
+Sebagai orang Indonesia, saya fasih menggunakan Bahasa Indonesia dalam berbicara dan menulis serta menggunakannya untuk berbicara di depan umum. Saya mahir berbahasa Arab dalam berbicara dan menulis.
 
-Setelah mengikuti seminar dan workshop, saya juga mempunyai kemampuan memotret dengan kamera digital secara profesional, atau saya juga bisa merekam video dengan konsep sinematik. Beberapa file tulisan saya juga saya simpan di website resmi saya yaitu emde.web.id.
+Setelah mengikuti seminar dan workshop, saya juga mempunyai kemampuan memotret dengan kamera digital secara profesional, atau saya juga bisa merekam video dengan konsep sinematik. Saya juga memahami dasar *data analytics*, *product management*, dan *digital marketing*.
+
+Saya familiar dengan beberapa  *software*, baik *close source* maupun *close source* seperti Microsoft Office, LibreOffice, OnlyOffice, GoogleDocs. Saya menggunakan sistem operasi komputer: Debian 12 Bookworm GNU/Linux, macOS Monterey, dan Windows 7 dan 10 dan sistem operasi ponsel: Android.
 
 ## Pendidikan
 
