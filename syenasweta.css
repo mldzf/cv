@@ -1,0 +1,104 @@
+/*
+ * Syenasweta.css
+ * A CSS Library for Idless and Classless HTML
+ * Author: Nashrullah Ali Fauzi
+ * Version: 1.0.0
+ * License:  MIT License
+ * Project: https://github.com/syenasweta
+ */
+
+@charset "UTF-8";
+
+* {
+
+}
+
+html {
+
+}
+
+body {
+
+}
+
+header {
+
+}
+
+main {
+
+}
+
+article {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+footer {
+  
+}
+
+h1 {
+  color: grey;
+}
+
+body > header {
+
+}
+
+/* specific */
+
+body > header > hgroup {
+
+}
+
+body > header > hgroup > h1 {
+  color: green;
+}
+
+body > header > hgroup > h2 {
+
+}
+
+body > header > nav {
+
+}
+
+body > header > nav > ul {
+
+}
+
+body > header > nav > ul > li {
+  
+}
+
+main > article {
+
+}
+
+main > article > header {
+
+}
+
+main > article > header > hgroup {
+
+}
+
+main > article > header > hgroup > h1 {
+
+}
+
+main > article > header > hgroup > h2 {
+  
+}
+
+main > article > p {
+
+}

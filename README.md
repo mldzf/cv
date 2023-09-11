@@ -2,6 +2,8 @@
 
 ## Biodata
 
+![/maulidadzulfikri.jpg)
+
 | Nama                | Maulida Dzul Fikri                                           |
 | ------------------- | ------------------------------------------------------------ |
 | Tempat & Tgl. Lahir | Kudus, 10 Desember 1996                                      |
@@ -44,9 +46,9 @@ Saya familiar dengan beberapa  *software*, baik *close source* maupun *close sou
 
 ## Kursus
 
-- RevoU Course Data Analytics 2022
-- RevoU Course Product Management 2022
-- RevoU Course Digital Marketing 2022
+- RevoU Course Data Analytics (2022)
+- RevoU Course Product Management (2022)
+- RevoU Course Digital Marketing (2022)
 - Peserta Workshop Temu Penggerak Media Pesantren di Pusat Studi Pesantren  (2019)
 - Kursus Bahasa Arab di Pusat Pengembangan Bahasa Universitas Islam Negeri Syarif Hidayatullah (2017)
 - Pelatihan Jurnalistik Moslem Moderate Society bersama Zuhairi Misrawi (2016)
@@ -71,7 +73,7 @@ Saya familiar dengan beberapa  *software*, baik *close source* maupun *close sou
 
 ## Penghargaan
 
-- Wisudawan Terbaik Non Akademik UIN Syarif Hidayatullah Jakarta 2021
+- Wisudawan Terbaik Non Akademik UIN Syarif Hidayatullah Jakarta (2021)
 
 ## Skor Tes
 
