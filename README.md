@@ -11,7 +11,7 @@
 | Alamat              | Jln. Ir. H. Juanda No. 19, Tangerang Selatan, Banten 15412   |
 | LinkedIn            | https://linkedin.com/in/emde                                 |
 | VCard               | [/maulidadzulfikri.vcf](/maulidadzulfikri.vcf)               |
-| QRCode              | ![](/home/nashrullahalifauzi/public_html/cv/vcard-maulidadzulfikri.svg) |
+| QRCode              | ![](/vcard-maulidadzulfikri.svg) |
 
 ## Ringkasan
 
