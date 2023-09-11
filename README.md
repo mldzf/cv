@@ -2,7 +2,7 @@
 
 ## Biodata
 
-![/maulidadzulfikri.jpg)
+![](maulidadzulfikri.jpg)
 
 | Nama                | Maulida Dzul Fikri                                           |
 | ------------------- | ------------------------------------------------------------ |
@@ -12,8 +12,8 @@
 | Ponsel              | +6285713645455                                               |
 | Alamat              | Jln. Ir. H. Juanda No. 19, Tangerang Selatan, Banten 15412   |
 | LinkedIn            | https://linkedin.com/in/emde                                 |
-| VCard               | [/maulidadzulfikri.vcf](/maulidadzulfikri.vcf)               |
-| QRCode              | ![](/vcard-maulidadzulfikri.svg) |
+| VCard               | [maulidadzulfikri.vcf](maulidadzulfikri.vcf)               |
+| QRCode              | ![](vcard-maulidadzulfikri.svg) |
 
 ## Ringkasan
 
