@@ -25,7 +25,7 @@ Sebagai orang Indonesia, saya fasih menggunakan Bahasa Indonesia dalam berbicara
 
 Setelah mengikuti seminar dan workshop, saya juga mempunyai kemampuan memotret dengan kamera digital secara profesional, atau saya juga bisa merekam video dengan konsep sinematik. Saya juga memahami dasar *data analytics*, *product management*, dan *digital marketing*.
 
-Saya familiar dengan beberapa  *software*, baik *close source* maupun *close source* seperti Microsoft Office, LibreOffice, OnlyOffice, GoogleDocs. Saya menggunakan sistem operasi komputer: Debian 12 Bookworm GNU/Linux, macOS Monterey, dan Windows 7 dan 10 dan sistem operasi ponsel: Android.
+Saya familiar dengan beberapa  *software*, baik *close source* maupun *close source* seperti Microsoft Office, LibreOffice, OnlyOffice, GoogleDocs. Saya menggunakan sistem operasi: Debian 12 Bookworm GNU/Linux, macOS Monterey, dan Windows 7 dan 10.
 
 ## Pendidikan
 
@@ -66,8 +66,8 @@ Saya familiar dengan beberapa  *software*, baik *close source* maupun *close sou
 
 ## Publikasi
 
-- Buku *Al Adad wa Tathbiqat fi al Jumlah* Adabia Press UIN Jakarta (2015)
-- Artikel di Harian Kompas (2017)
+-  *[Al Adad wa Tathbiqat fi al Jumlah](http://www.repository.uinjkt.ac.id/dspace/handle/123456789/38468)*, buku terbitan Adabia Press UIN Jakarta (2015)
+- *[Argumentasi](https://www.kompas.id/baca/kampus/2017/05/19/argumentasi-19/)*, artikel di Harian Kompas (2017)
 
 ## Penghargaan
 
