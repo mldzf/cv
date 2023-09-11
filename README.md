@@ -2,14 +2,16 @@
 
 ## Biodata
 
-| Nama                | Maulida Dzul Fikri                                         |
-| ------------------- | ---------------------------------------------------------- |
-| Tempat & Tgl. Lahir | Kudus, 10 Desember 1996                                    |
-| Jenis Kelamin       | Laki-laki                                                  |
-| Email               | maulidadzulﬁkri@gmail.com                                  |
-| Ponsel              | +6285713645455                                             |
-| Alamat              | Jln. Ir. H. Juanda No. 19, Tangerang Selatan, Banten 15412 |
-| LinkedIn            |                                                            |
+| Nama                | Maulida Dzul Fikri                                           |
+| ------------------- | ------------------------------------------------------------ |
+| Tempat & Tgl. Lahir | Kudus, 10 Desember 1996                                      |
+| Jenis Kelamin       | Laki-laki                                                    |
+| Email               | maulidadzulﬁkri@gmail.com                                    |
+| Ponsel              | +6285713645455                                               |
+| Alamat              | Jln. Ir. H. Juanda No. 19, Tangerang Selatan, Banten 15412   |
+| LinkedIn            | https://linkedin.com/in/emde                                 |
+| VCard               | [/maulidadzulfikri.vcf](/maulidadzulfikri.vcf)               |
+| QRCode              | ![](/home/nashrullahalifauzi/public_html/cv/vcard-maulidadzulfikri.svg) |
 
 ## Ringkasan
 
@@ -20,7 +22,6 @@ Saya juga belajar tentang linguistik, sastra, kajian budaya, kajian Islam, isu-i
 Sebagai orang Indonesia, saya fasih menggunakan Bahasa Indonesia dalam berbicara dan menulis serta menggunakannya untuk berbicara di depan umum. Saya mahir berbahasa Arab dalam berbicara dan menulis. Saya juga familiar dengan software Ms Office (Ms. Word, Ms. Excel, Ms. Power Point).
 
 Setelah mengikuti seminar dan workshop, saya juga mempunyai kemampuan memotret dengan kamera digital secara profesional, atau saya juga bisa merekam video dengan konsep sinematik. Beberapa file tulisan saya juga saya simpan di website resmi saya yaitu emde.web.id.
-
 
 ## Pendidikan
 
@@ -74,7 +75,3 @@ Setelah mengikuti seminar dan workshop, saya juga mempunyai kemampuan memotret d
 | ----- | ---------------- |
 | TOEFL | 450 out of 677   |
 | TOAFL | 526 out of 677   |
-
-.
-
-## 
